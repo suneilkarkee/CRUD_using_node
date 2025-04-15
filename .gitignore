@@ -1,0 +1,5 @@
+# Node modules (packages installed by npm)
+node_modules/
+
+# Environment variables (secrets like DB URI)
+.env
